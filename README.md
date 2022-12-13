@@ -11,7 +11,7 @@ The Class Project have four main parts
 
 ## Data Sources
 
-There are six input data files:
+Six data sources are used in this project:
 
 - Kaggle repository of John Hopkins University COVID-19 data [Link](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university)
 - The CDC dataset of masking mandates by county [Link](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
