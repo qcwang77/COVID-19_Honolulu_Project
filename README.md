@@ -9,6 +9,10 @@ The Class Project have four main parts
 - Part 3 - Presentation will require you to give a modified (shorter) PechaKucha presentation of your completed project.
 - Part 4 - [Python Notebook](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Part%204%20-%20Data%20Processing.ipynb),  [Annotated R Code](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Project%20Part4%20-%20Regression%20Analysis.R) Project Repository, creation of a fully documented repository and also requires the submission of a written project report.
 
+## Documentations
+- Part 1 [Reflection Statement](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Reflection%20Statement.pdf)
+- Part 1 [Visualization Explanation](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Visualization%20Explanation.pdf)
+
 ## Data Sources
 
 Six data sources are used in this project:
@@ -70,6 +74,3 @@ Correlation Heat Map
 
 ![Correlation Heat Map](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Correlation%20Heat%20Map.JPG)
 
-## Reflections
-- Part 1 [https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Reflection%20Statement.pdf)
-- Part 1 [https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Visualization%20Explanation.pdf)
