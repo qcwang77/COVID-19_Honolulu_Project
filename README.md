@@ -29,6 +29,29 @@ Six data sources are used in this project:
 - Oxford COVID-19 government response track [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - Daily Passenger Counts Hawaii.gov [DCAT-US Schema v1.1](https://resources.data.gov/resources/dcat-us/)
 
+## Intermediate data files
+
+- Honolulu_dataset.csv
+- Honolulu_dataset_delay2.csv
+- Honolulu_dataset_delay4.csv
+- Honolulu_dataset_delay7.csv
+- Honolulu_dataset_delay14.csv
+- Honolulu_dataset_tourist.csv
+
+## Data Schema
+
+| Name | Type | Description | Example |
+| ---- | ---- | ----------- | ------- |
+| **date** | `string` | ISO 8601 date (YYYY-MM-DD) of the datapoint | 2020-07-30 |
+| **daily_confirmed_cases** | `integer` `[0-inf]` | Daily confired covid cases | 25 |
+| **daily_passenger_arrivals** | `integer` `[0-inf]` | Daily confired covid cases | 15000 |
+| **school_closing** | `integer` `[0-3]` | Schools are closed | 2 |
+| **workplace_closing** | `integer` `[0-3]` | Workplaces are closed | 2 |
+| **contact_tracing** | `integer` `[0-2]` | Country-wide contact tracing policy | 1 |
+| **facial_coverings** | `integer` `[0-4]` | Policies on the use of facial coverings outside the home | 2 |
+| **stringency_index** | `double` `[0-100]` | Overall stringency index | 71.43 |
+| **SDI** | `double` `[0-100]` | Overall stringency index | 71.43 |
+
 ## Graphical Outputs
 
 Rate of Infections
