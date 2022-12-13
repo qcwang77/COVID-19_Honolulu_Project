@@ -4,7 +4,7 @@
 
 The Class Project have four main parts
 
-- Part 1 - Common Analysis sets the stage for the subsequent assignments. In A4 you conduct a base analysis. All of the students in the class will conduct the same analysis, but with a slightly different data subset.[Python Notebook](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Part%201%20-%20Common%20Analysis.ipynb) 
+- Part 1 - Common Analysis sets the stage for the subsequent assignments. In A4 you conduct a base analysis. All of the students in the class will conduct the same analysis, but with a slightly different data subset. [Python Notebook](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Part%201%20-%20Common%20Analysis.ipynb) 
 - Part 2 - Extension Plan will require you to ask a human centered data science question that extends the work in A4: Common Analysis. 
 - Part 3 - Presentation will require you to give a modified (shorter) PechaKucha presentation of your completed project.
 - Part 4 - Project Repository, creation of a fully documented repository and also requires the submission of a written project report. [Python Notebook](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Part%204%20-%20Data%20Processing.ipynb),  [Annotated R Code](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Project%20Part4%20-%20Regression%20Analysis.R) 
