@@ -4,10 +4,10 @@
 
 The Class Project have four main parts
 
-- Part 1 - [Notebook](/DocumentedCode/Part 1 - Common Analysis.ipynb)  Common Analysis sets the stage for the subsequent assignments. In A4 you conduct a base analysis. All of the students in the class will conduct the same analysis, but with a slightly different data subset.
+- Part 1 - [Notebook](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Part%201%20-%20Common%20Analysis.ipynb)  Common Analysis sets the stage for the subsequent assignments. In A4 you conduct a base analysis. All of the students in the class will conduct the same analysis, but with a slightly different data subset.
 - Part 2 - Extension Plan will require you to ask a human centered data science question that extends the work in A4: Common Analysis. 
 - Part 3 - Presentation will require you to give a modified (shorter) PechaKucha presentation of your completed project.
-- Part 4 - [Notebook](/DocumentedCode/Part 4 - Data Processing.ipynb) [Annotated R Code](/DocumentedCode/Project Part4 - Regression Analysis.R) Project Repository, creation of a fully documented repository and also requires the submission of a written project report.
+- Part 4 - [Notebook](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Part%204%20-%20Data%20Processing.ipynb) [Annotated R Code](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Project%20Part4%20-%20Regression%20Analysis.R) Project Repository, creation of a fully documented repository and also requires the submission of a written project report.
 
 ## Data Sources
 
@@ -55,17 +55,17 @@ Six data sources are used in this project:
 ## Graphical Outputs
 
 Rate of Infections
-![Rate of Infections](/GraphicalOutpus/Rate of Infections.jpg)
+![Rate of Infections](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Rate%20of%20Infections.jpg)
 
 Derivative Function of Rate of Infections
-![Derivative Function of Rate of Infections](/GraphicalOutpus/Derivative Function of Rate of Infections.jpg)
+![Derivative Function of Rate of Infections](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Derivative%20Function%20of%20Rate%20of%20Infections.jpg)
 
 Histogram Of Daily Confirmed Cases
-![Histogram Of Daily Confirmed Cases](/GraphicalOutpus/Histogram Of Daily Confirmed Cases.JPG)
+![Histogram Of Daily Confirmed Cases](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Histogram%20Of%20Daily%20Confirmed%20Cases.JPG)
 
 Correlation Heat Map
-![Correlation Heat Map](/GraphicalOutpus/Correlation Heat Map.JPG)
+![Correlation Heat Map](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Correlation%20Heat%20Map.JPG)
 
 ## Reflections
-- Part 1 [Reflection Statement](/Part1Documentation/Reflection Statement.pdf)
-- Part 1 [Visulization Explaination](/Part1Documentation/Visualization Explanation.pdf)
+- Part 1 [https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Reflection%20Statement.pdf)
+- Part 1 [https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Visualization%20Explanation.pdf)
