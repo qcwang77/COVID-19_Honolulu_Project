@@ -1,4 +1,4 @@
-# Data 512A Class Project
+# Data 512A Class Project:Exploring the Impacts of Government Responses on Pandemic Control and Local Tourism at Honolulu County
 
 ## About the Project
 
@@ -10,6 +10,7 @@ The Class Project have four main parts
 - Part 4 - Project Repository, creation of a fully documented repository and also requires the submission of a written project report. [Python Notebook](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Part%204%20-%20Data%20Processing.ipynb),  [Annotated R Code](https://github.com/qcwang77/Data512ProjectRepository/blob/main/DocumentedCode/Project%20Part4%20-%20Regression%20Analysis.R) 
 
 ## Documentations
+- Project Report [pdf](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Report%20Document.pdf)
 - Part 1 [Reflection Statement](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Reflection%20Statement.pdf)
 - Part 1 [Visualization Explanation](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Visualization%20Explanation.pdf)
 - Part 2 [Extension Plan](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Part%202%20-%20An%20Extension%20Plan.pdf)
