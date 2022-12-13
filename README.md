@@ -12,6 +12,8 @@ The Class Project have four main parts
 ## Documentations
 - Part 1 [Reflection Statement](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Reflection%20Statement.pdf)
 - Part 1 [Visualization Explanation](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Visualization%20Explanation.pdf)
+- Part 2 [Extension Plan](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Part%202%20-%20An%20Extension%20Plan.pdf)
+- Part 4 [Data Source and Intermediate Data Files Document](https://github.com/qcwang77/Data512ProjectRepository/blob/main/Part1Documentation/Data%20Source%20and%20Intermediate%20Data%20Files%20Document.pdf)
 
 ## Data Sources
 
