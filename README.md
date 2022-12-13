@@ -13,7 +13,7 @@ The Class Project have four main parts
 
 There are six input data files:
 
-- RAW_us_confirmed_cases.csv: from the Kaggle repository of John Hopkins University COVID-19 data [Link](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university)
+- Kaggle repository of John Hopkins University COVID-19 data [Link](https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university)
 - The CDC dataset of masking mandates by county [Link](https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i)
 - The New York Times mask compliance survey data [Link](https://github.com/nytimes/covid-19-data/tree/master/mask-use)
 - Social Distancing Index from University of Maryland [Link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZAKKCE)
