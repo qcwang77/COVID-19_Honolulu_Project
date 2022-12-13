@@ -55,15 +55,19 @@ Six data sources are used in this project:
 ## Graphical Outputs
 
 Rate of Infections
+
 ![Rate of Infections](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Rate%20of%20Infections.jpg)
 
 Derivative Function of Rate of Infections
+
 ![Derivative Function of Rate of Infections](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Derivative%20Function%20of%20Rate%20of%20Infections.jpg)
 
 Histogram Of Daily Confirmed Cases
+
 ![Histogram Of Daily Confirmed Cases](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Histogram%20Of%20Daily%20Confirmed%20Cases.JPG)
 
 Correlation Heat Map
+
 ![Correlation Heat Map](https://github.com/qcwang77/Data512ProjectRepository/blob/main/GraphicalOutpus/Correlation%20Heat%20Map.JPG)
 
 ## Reflections
