@@ -50,7 +50,7 @@ Six data sources are used in this project:
 | **contact_tracing** | `integer` `[0-2]` | Country-wide contact tracing policy | 1 |
 | **facial_coverings** | `integer` `[0-4]` | Policies on the use of facial coverings outside the home | 2 |
 | **stringency_index** | `double` `[0-100]` | Overall stringency index | 71.43 |
-| **SDI** | `double` `[0-100]` | Overall stringency index | 71.43 |
+| **SDI** | `integer` `[0-100]` | Overall stringency index | 54 |
 
 ## Graphical Outputs
 
