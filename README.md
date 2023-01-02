@@ -1,6 +1,4 @@
-# Data 512A Class Project
-
-### Exploring the Impacts of Government Responses on Pandemic Control and Local Tourism at Honolulu County
+## Exploring the Impacts of Government Responses on Pandemic Control and Local Tourism at Honolulu County
 
 ## About the Project
 
